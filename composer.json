@@ -34,6 +34,7 @@
         "symfony/security-bundle": "5.0.*",
         "symfony/slack-notifier": "5.0.*",
         "symfony/string": "5.0.*",
+        "symfony/translation": "5.0.*",
         "symfony/twig-bundle": "5.0.*",
         "symfony/validator": "5.0.*",
         "symfony/webpack-encore-bundle": "^1.7",
