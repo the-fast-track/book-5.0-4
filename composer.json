@@ -26,6 +26,7 @@
         "symfony/security-bundle": "5.0.*",
         "symfony/string": "5.0.*",
         "symfony/twig-bundle": "5.0.*",
+        "symfony/webpack-encore-bundle": "^1.7",
         "symfony/workflow": "5.0.*",
         "symfony/yaml": "5.0.*",
         "twig/cssinliner-extra": "^3.0",
