@@ -15,8 +15,13 @@ runtime:
 build:
     flavor: none
 
+variables:
+    php-ext:
+        redis: 5.3.1
+
 relationships:
     database: "db:postgresql"
+    redis: "rediscache:redis"
 
 web:
     locations:
