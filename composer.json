@@ -12,6 +12,9 @@
         "symfony/yaml": "5.0.*"
     },
     "require-dev": {
+        "symfony/stopwatch": "^5.0",
+        "symfony/twig-bundle": "^5.0",
+        "symfony/web-profiler-bundle": "^5.0"
     },
     "config": {
         "preferred-install": {
