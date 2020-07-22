@@ -26,6 +26,7 @@
         "symfony/phpunit-bridge": "^5.1",
         "symfony/process": "5.0.*",
         "symfony/security-bundle": "5.0.*",
+        "symfony/slack-notifier": "5.0.*",
         "symfony/string": "5.0.*",
         "symfony/twig-bundle": "5.0.*",
         "symfony/webpack-encore-bundle": "^1.7",

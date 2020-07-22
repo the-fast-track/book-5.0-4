@@ -468,6 +468,15 @@
     "symfony/service-contracts": {
         "version": "v2.1.3"
     },
+    "symfony/slack-notifier": {
+        "version": "5.0",
+        "recipe": {
+            "repo": "github.com/symfony/recipes",
+            "branch": "master",
+            "version": "5.0",
+            "ref": "192bc241a3095c6861353e5a7a652ad35659ca92"
+        }
+    },
     "symfony/stopwatch": {
         "version": "v5.0.10"
     },
