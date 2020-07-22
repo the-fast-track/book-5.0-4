@@ -28,6 +28,7 @@
         "twig/twig": "^2.12|^3.0"
     },
     "require-dev": {
+        "doctrine/doctrine-fixtures-bundle": "^3.3",
         "symfony/browser-kit": "5.0.*",
         "symfony/debug-bundle": "^5.0",
         "symfony/maker-bundle": "^1.20",
