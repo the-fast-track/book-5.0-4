@@ -403,6 +403,9 @@
     "symfony/polyfill-php80": {
         "version": "v1.18.0"
     },
+    "symfony/process": {
+        "version": "v5.0.10"
+    },
     "symfony/profiler-pack": {
         "version": "v1.0.4"
     },
