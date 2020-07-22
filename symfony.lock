@@ -133,6 +133,9 @@
     "laminas/laminas-zendframework-bridge": {
         "version": "1.0.4"
     },
+    "lorenzo/pinky": {
+        "version": "1.0.5"
+    },
     "monolog/monolog": {
         "version": "2.1.0"
     },
@@ -540,7 +543,16 @@
     "symfony/yaml": {
         "version": "v5.0.10"
     },
+    "tijsverkoyen/css-to-inline-styles": {
+        "version": "2.2.3"
+    },
+    "twig/cssinliner-extra": {
+        "version": "v3.0.4"
+    },
     "twig/extra-bundle": {
+        "version": "v3.0.4"
+    },
+    "twig/inky-extra": {
         "version": "v3.0.4"
     },
     "twig/intl-extra": {
