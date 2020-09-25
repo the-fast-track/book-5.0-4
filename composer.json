@@ -1,5 +1,6 @@
 {
     "type": "project",
+    "homepage": "https://symfony.com/book",
     "license": "proprietary",
     "require": {
         "php": "^7.2.5",
